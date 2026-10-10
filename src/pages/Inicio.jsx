@@ -51,6 +51,22 @@ const Inicio = () => {
             Descubre descuentos exclusivos y productos con envíos rápidos.
           </p>
         </div>
+        {/* Tarjeta 4: Ofertas / Destacados (Nuevo) */}
+        <div className="p-6 bg-slate-900/80 border border-slate-800 rounded-2xl hover:border-emerald-500/40 transition-all">
+          <span className="text-3xl mb-3 block">⚡</span>
+          <h3 className="text-white font-bold text-base mb-1">Ofertas Especiales</h3>
+          <p className="text-xs text-slate-400 leading-relaxed">
+            Descubre descuentos exclusivos y productos con envíos rápidos.
+          </p>
+        </div>
+        {/* Tarjeta 4: Ofertas / Destacados (Nuevo) */}
+        <div className="p-6 bg-slate-900/80 border border-slate-800 rounded-2xl hover:border-emerald-500/40 transition-all">
+          <span className="text-3xl mb-3 block">⚡</span>
+          <h3 className="text-white font-bold text-base mb-1">Ofertas Especiales</h3>
+          <p className="text-xs text-slate-400 leading-relaxed">
+            Descubre descuentos exclusivos y productos con envíos rápidos.
+          </p>
+        </div>
       </div>
     </div>
   );
